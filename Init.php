@@ -5,7 +5,7 @@
  * @version   1.0
  * @package   op-asset-model
  * @author    Tomoaki Nagahara
- * @copyright Tomoaki Nagahara All right reserved.
+ * @copyright Tomoaki Nagahara All rights reserved.
  */
 
 /**	declare
